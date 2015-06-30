@@ -1,2 +1,5 @@
-# Space-Attack-Core-Elements
-Basic Resource Files for Space Attack
+# Space-Attack
+A simple HTML5/Javascript Space Game
+
+# Live Demo
+http://filmsbykris.com/scripts/Space-Attack/
